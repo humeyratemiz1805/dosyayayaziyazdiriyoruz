@@ -1,0 +1,2 @@
+# dosyayayaziyazdiriyoruz
+dosyaya yazı yazdırıyoruz
